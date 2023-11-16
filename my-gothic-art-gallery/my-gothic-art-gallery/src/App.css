@@ -1,0 +1,46 @@
+body {
+  background-color: #1c1c1c; /* Dark background color */
+  color: #fff; /* White text color */
+  font-family: "Gothic", sans-serif; /* Use a Gothic font if available */
+  margin: 0;
+}
+
+.art-gallery-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.art-gallery-header {
+  background-color: #333; /* Dark header background color */
+  padding: 1rem;
+  text-align: center;
+}
+
+.art-gallery-header h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+.art-gallery-main {
+  flex: 1;
+  padding: 1rem;
+}
+
+.art-gallery-footer {
+  background-color: #333; /* Dark footer background color */
+  padding: 1rem;
+  text-align: center;
+}
+
+.gallery-link {
+  color: #fff;
+  text-decoration: none;
+  padding: 8px 16px;
+  background-color: #555; /* Button background color */
+  border-radius: 4px;
+}
+
+.gallery-link:hover {
+  background-color: #777; /* Button background color on hover */
+}
