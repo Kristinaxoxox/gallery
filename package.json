@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "firebase": "^10.7.0",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
+}

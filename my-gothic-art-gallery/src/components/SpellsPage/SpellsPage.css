@@ -1,0 +1,11 @@
+/* SpellsPage.css */
+.spells-page-container {
+  /* Add specific styles for the SpellsPage component */
+  /* For example: */
+  background-color: #000000;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Add more styles as needed */
